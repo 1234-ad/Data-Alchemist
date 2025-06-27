@@ -1,0 +1,2 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T1,Analysis,Data,2,SkillA,"1-2",1

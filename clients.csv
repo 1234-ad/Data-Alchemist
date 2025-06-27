@@ -1,0 +1,2 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C1,Alpha,3,T1|T2,G1,{"type":"premium"}
